@@ -1,0 +1,348 @@
+/*{
+	width: 0;
+	padding: 0;
+	font-family: sans-serif;
+}*/
+.icon{
+	display: flex;
+
+}
+.icon h1{
+	font-size: 25px;
+	font-family: sans-serif;
+	color: #4D4D4D;
+	padding-left: 70px;
+}
+span{
+	color: #FF9500;
+}
+.icon ul{
+	display: flex;
+	list-style: none;
+	margin: 20px;
+	padding-left: 250px;
+}
+.icon ul li{
+	padding-right: 50px;
+}
+
+.icon ul li a{
+	text-decoration: none;
+	font-family: calibri;
+	color: #4D4D4D;
+	text-indent: 50%;
+	font-weight: bold; 
+	font-size: 20px;
+}
+.icon a:hover{
+	color: #FF9500;
+	transition: 0.2s; 
+}
+.design h3{
+	font-size: 25px;
+	font-family: calibri;
+	color: #4D4D4D;
+
+}
+.design h1{
+	font-family: calibri;
+	font-size: 50px;
+	color: #4D4D4D;
+
+}
+.design p{
+	font-family: calibri;
+	color: #4D4D4D;
+	font-size: 17px;
+	line-height: 1.7;
+}
+.sectionn{
+	background-color: #EBECF0;
+	margin-top: 50px; 
+	margin-bottom: 80px;
+}
+.section{
+	display: flex;
+	margin: 80px;
+	
+}
+.slider img{
+	padding-left: 55px;
+}
+.design h4{
+	font-size: 20px;
+
+}
+.design h4 span{
+	opacity: 0.5;
+	color: #4D4D4D;
+	padding-left: 8px;
+}
+.btn{
+	display: flex;
+}
+.btn button{
+	font-size: 18px;
+	background-color: #FF9500;
+	padding-right: 15px;
+	
+}
+.btn button a{
+	text-decoration: none;
+	color: #fff;
+	padding: 40px;
+}
+.btn p{
+	color: #FF9500;
+	padding-left: 50px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.box{
+	margin-left: px;
+	background-color: #EBECF0;
+	/*margin-right: 950px;*/
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-right: 30px;
+}
+/*.discovery img{
+	padding-left: 60px;
+	margin-top: 25px;
+	padding-bottom: 0px;
+}*/
+
+.box img{
+	margin: 0px;
+	padding-left: 70px;
+	padding-top: 40px;
+
+}
+
+.discovery h3{
+	text-align: center;
+	font-family: calibri;
+	font-size: 30px;
+	color: #4D4D4D;
+	padding-left: 30px;
+	
+}
+
+.discovery p{
+	text-align: center;
+	font-family: calibri;
+	color: #4D4D4D;
+	padding-top: 0px;
+	line-height: 1.7
+	
+}
+
+.box p{
+	padding-left: 20px;
+
+}
+.stool{
+	display: flex;
+	margin-top: px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.boxx{
+	background-color: #EBECF0;
+	margin-right: 30px;
+	padding-bottom: px;
+}
+.text{
+	text-align: left;
+	font-family: calibri;
+	color: #4D4D4D;
+	padding-top: 0px;
+	padding-left: 30px;
+	line-height: 1.7;
+}
+
+.bx{
+	display: flex;
+	margin: 50px;
+	padding-left: 50px;
+
+}
+
+.boxx button{
+	padding: 15px;
+
+}
+
+.boxx button a{
+	color: #4D4D4D;
+}
+
+
+.Arrivals h1{
+	font-family: calibri;
+	text-align: center;
+	color: #4D4D4D;
+	padding-bottom: 60px;
+}
+
+.New .Arrive img{
+	background-color: #EBECF0;
+	padding: 70px;
+}
+.New .Arrive{
+	display: flex;
+	margin-left: 30px;
+}
+
+.New{
+	margin-left: 70px;
+}
+
+.button btn{
+	margin: 100px;
+}
+
+.Price{
+	display: inline-flex;
+	padding: px;
+	margin-left: 120px;
+}
+
+.Price p{
+	font-family: calibri;
+	color: #4D4D4D;
+	text-align: center;
+	line-height: 2.2;
+	padding-right: 150px;
+	padding-left: 50px;
+	font-weight: bold;
+}
+
+.Price span{
+	color: #4D4D4D;
+}
+
+.Featured h1{
+	font-family: calibri;
+	text-align: center;
+	color: #4D4D4D;
+	padding-bottom: 60px;
+}
+
+.Products .feat img{
+	background-color: #EBECF0;
+	padding: 70px;
+}
+.Products .Feat{
+	display: flex;
+	margin-left: 30px;
+}
+
+.Products{
+	margin-left: 70px;
+}
+
+.Price2{
+	display: inline-flex;
+	padding: px;
+	margin-left: 120px;
+}
+
+.Price2 p{
+	font-family: calibri;
+	color: #4D4D4D;
+	text-align: center;
+	line-height: 2.2;
+	padding-right: 150px;
+	padding-left: 50px;
+	font-weight: bold;
+}
+
+.Price2 span{
+	color: #4D4D4D;
+}
+
+.Latest h1{
+	font-family: calibri;
+	text-align: center;
+	color: #4D4D4D;
+	padding-bottom: 60px;
+}
+
+.Price3{
+	font-family: calibri;
+	line-height: 2.0;
+	font-size: 12px;
+	color: #4D4D4D;
+}
+
+.Price3 span{
+	color: #4D4D4D;
+	font-weight: lighter;
+
+}
+
+.last{
+	display: flex;
+	margin-left: 100px;
+
+}
+
+.last .Price3{
+	padding-right: 100px;
+}
+
+.Contact .List{
+	display: flex;
+	margin-left: 150px;
+	margin-top: 40px;
+}
+
+.Contact .List h4{
+	margin-right: 210px;
+	font-family: calibri;
+}
+
+.Contact ul li{
+	list-style: none;
+	margin-left: 110px;
+}
+
+.Contact ul li a{
+	text-decoration: none;
+	color: #4D4D4D;
+	font-family: calibri;
+	line-height: 2.3;
+}
+
+.Contact ul li a:hover{
+	color: #FF9500;
+	transition: 0.2s; 
+}
+
+.Contact .lt{
+	display: flex;
+}
+
+.Contact .lt .lists{
+	margin-right: 50px;
+}
+
+.Contact .lt .lists .Search .srch{
+	padding: 10px;
+	margin-left: 150px;
+	
+}
+
+footer{
+	background-color: #EBECF0;
+	padding: 50px;
+}
+
+footer p{
+	text-align: center;
+	color:  #4D4D4D;
+	font-family: calibri;
+	text-decoration: none;
+}
+
